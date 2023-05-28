@@ -12,7 +12,7 @@ function writeCards(name, eventName) {
 };
 
 writeCards();
-
+// write cards function invoke 
 
 function countDown(posInteger) {
     console.log(posInteger);
